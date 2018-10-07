@@ -1,0 +1,39 @@
+baseURL                 = "https://sudobinbash.com/"
+languageCode            = "en-us"
+defaultContentLanguage  = "en"
+isMultilingual          = false
+title                   = "sudo /bin/bash"
+theme                   = "sam"
+pygmentsStyle           = "monokai" # https://help.farbox.com/pygments.html
+pygmentsCodefences      = true
+googleAnalytics         = "UA-127036820-1"
+
+[params]
+    dateform                = "January 2, 2006"
+    dateformfull            = "January 2 2006 15:04:05 EST"
+    favicon                 = "favicon.ico"
+    homepage                = "Home"                        # What to call the home page link
+    galleryFolder           = "images/"                     # Where you've put your images, after "/content/gallery/"
+    clickablePhotos         = true                          # Allow links to the full size images
+    smallPreviewImages      = false                         # Show small images from the subfolder instead of the big versions in the gallery
+    smallImagesSubfolder    = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
+                                                            # For each image the small version has to have the same filename as the big version.
+    # footerText            = "sudo /bin/bash"
+
+# Metadata
+    # description           = "A new Hugo site."            # Max 160 characters show in search results
+    # twitterCard           = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
+    # primaryImage          = "tn.png"                      # Image that shows on Twitter cards and OpenGraph links
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "I'm Frederico"
+
+[[params.mainMenu]]
+    link = "/talks"
+    text = "Sometimes I talk"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "Sometimes I write"
+
