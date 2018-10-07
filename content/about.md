@@ -1,7 +1,7 @@
 ---
 title: "Oi, I'm Frederico"
 date: 2018-10-03T02:34:44-07:00
-draft: true
+draft: false
 ---
 
 - I am Brazilian

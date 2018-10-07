@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 date: 2018-10-03T02:34:52-07:00
-draft: true
+draft: false
 ---
 
 Sometimes I talk about Identity and Access Management, Information Security, and how to do stuff:
