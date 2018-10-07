@@ -1,7 +1,7 @@
 ---
 title: "Olá Mundo!"
 date: 2018-10-03T02:30:07-07:00
-draft: true
+draft: false
 timeToRead: "10 secs"
 ---
 
