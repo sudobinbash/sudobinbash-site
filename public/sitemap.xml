@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sudobinbash.com/talks/</loc>
+    <lastmod>2018-10-03T02:34:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sudobinbash.com/about/</loc>
+    <lastmod>2018-10-03T02:34:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sudobinbash.com/posts/ola-mundo/</loc>
+    <lastmod>2018-10-03T02:30:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sudobinbash.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sudobinbash.com/posts/</loc>
+    <lastmod>2018-10-03T02:30:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sudobinbash.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sudobinbash.com/</loc>
+    <lastmod>2018-10-03T02:34:52-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
