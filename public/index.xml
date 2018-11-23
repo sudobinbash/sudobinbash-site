@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sudo /bin/bash</title>
+    <link>https://sudobinbash.com/</link>
+    <description>Recent content on sudo /bin/bash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Oct 2018 02:34:52 -0700</lastBuildDate>
+    
+	<atom:link href="https://sudobinbash.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>https://sudobinbash.com/talks/</link>
+      <pubDate>Wed, 03 Oct 2018 02:34:52 -0700</pubDate>
+      
+      <guid>https://sudobinbash.com/talks/</guid>
+      <description> Sometimes I talk about Identity and Access Management, Information Security, and how to do stuff:
+SINC MidWest Security Leaders Forum 2018 - Chicago, IL From 0 to zero trust with Okta  CISO ExecNET Roundtable 2018 - Dallas, TX Manage Cloud Risk with Identity-driven Security  Oktane 2018 - Las Vegas, NV Implement the Okta LDAP Interface  Oktane 2017 Protect your Modern API OAuth  Oracle OpenWorld (2014 ˜ 2016) - San Francisco, CA Build your own Application Using Oracle Identity Cloud Services (IDCS) Oracle University: Cloud Security Seminar Oracle University: Oracle Identity Governance Compliance Workshop  ISSA: CISSP Seminars (2011 ~ 2012) - São Paulo, SP Information Security and Risk Management Application Security  </description>
+    </item>
+    
+    <item>
+      <title>Oi, I&#39;m Frederico</title>
+      <link>https://sudobinbash.com/about/</link>
+      <pubDate>Wed, 03 Oct 2018 02:34:44 -0700</pubDate>
+      
+      <guid>https://sudobinbash.com/about/</guid>
+      <description> I am Brazilian I live in the Bay Area, CA I like beer, soccer, and good music I write code and sometimes I talk about security I spent 10+ years implementing security in 70+ customers I am the Product Mkt Manager for Protocols and API at Okta I work with a lot of awesome people disrupting the IAM industry I have a LinkedIn profile in case you&amp;rsquo;re into details  </description>
+    </item>
+    
+    <item>
+      <title>Olá Mundo!</title>
+      <link>https://sudobinbash.com/posts/ola-mundo/</link>
+      <pubDate>Wed, 03 Oct 2018 02:30:07 -0700</pubDate>
+      
+      <guid>https://sudobinbash.com/posts/ola-mundo/</guid>
+      <description>Criei este post somente para dar sorte :D.
+Caso você tenha traduzido isto para o inglês, meus parabéns.</description>
+    </item>
+    
+  </channel>
+</rss>

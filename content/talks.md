@@ -6,6 +6,18 @@ draft: false
 
 Sometimes I talk about Identity and Access Management, Information Security, and how to do stuff:
 
+### TechExecs Network InfoSec Leadership 2018 - Atlanta, GA
+#### The Power of Identity Automation
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106135.29706072138!2d-84.49064358568174!3d33.767693119755585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5045d6993098d%3A0x66fede2f990b630b!2sAtlanta%2C+GA!5e0!3m2!1sen!2sus!4v1543000168390" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+
+### TechExecs Network InfoSec Leadership 2018 - Denver, CO
+#### The Power of Identity Automation
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d196281.88170617103!2d-104.99519373248697!3d39.76425475419289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b80aa231f17cf%3A0x118ef4f8278a36d6!2sDenver%2C+CO!5e0!3m2!1sen!2sus!4v1543000213956" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+---
+
 ### SINC MidWest Security Leaders Forum 2018 - Chicago, IL
 #### From 0 to zero trust with Okta
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d190255.33858341328!2d-87.87204636652237!3d41.833903666298546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2b582eb537af%3A0x85b5501249f7cd4b!2sRadisson+Blu+Aqua+Hotel%2C+Chicago!5e0!3m2!1sen!2sus!4v1538578281214" width="100%" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
