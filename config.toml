@@ -21,9 +21,9 @@ googleAnalytics         = "UA-127036820-1"
     # footerText            = "sudo /bin/bash"
 
 # Metadata
-    # description           = "A new Hugo site."            # Max 160 characters show in search results
+    description           = "Oi, I'm Frederico. Sometimes I talk about security. Sometimes I code."
     # twitterCard           = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    # primaryImage          = "tn.png"                      # Image that shows on Twitter cards and OpenGraph links
+    primaryImage          = "featured_image.gif"
 
 [[params.mainMenu]]
     link = "/about"
