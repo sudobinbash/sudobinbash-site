@@ -1,9 +1,8 @@
-
 ---
-title: “Getting my site security from D to A+ (without spending a dime)”
+title: "Getting my site security from D to A+ (without spending a dime)"
 date: 2018-11-06T02:30:07-07:00
 draft: true
-timeToRead: “10 min”
+timeToRead: "10 min"
 ---
 
 Working on the security industry and having an insecure site looks super bad. 
