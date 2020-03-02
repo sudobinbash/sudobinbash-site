@@ -7,7 +7,7 @@ timeToRead: "5 min"
 
 ![Example image](/img/logo.png)
 
-Free beer and a USB stick with streaming accounts? Too good to be truth...
+Free access to streaming accounts on a USB stick? Too good to be truth...
 
 ![Example image](/img/usb_beer.jpg)
 
