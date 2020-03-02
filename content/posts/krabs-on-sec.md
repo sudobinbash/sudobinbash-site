@@ -1,5 +1,5 @@
 ---
-title: "Dangerous Beer USB attack spotted on San Francisco"
+title: "Dangerous USB drop attack spotted on San Francisco"
 date: 2020-02-28T02:30:07-07:00
 draft: false
 timeToRead: "5 min"
